@@ -1,0 +1,15 @@
+1. Select top 5 customers
+2. List all unique cities where customers are located.
+3. Count the number of orders placed in 2017.
+4. Calculate the percentage of orders that were paid in installments.
+5. Count the number of customers from each state.
+6. Calculate the average total order value for each customer
+7. Calculate the number of orders per month in 2018.
+8. Find the average payment amount for each order.
+9. Find customers who placed an order before the last 6 months but haven't ordered since.
+10.Calculate the percentage of orders paid using each payment method.
+11.Identify the top 5 customers with the highest number of orders.
+12.Calculate the year-over-year percentage growth of total sales
+13.Determine the average time (in days) between consecutive orders for each customer.
+14.Find the cumulative total sales per month for each year
+15.Calculate the Percentage of Customers Who Made Repeat Purchases
